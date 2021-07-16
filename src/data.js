@@ -3,9 +3,9 @@ export const featuredPortfolio = [
         id: 1,
         title: "Forbes",
         img:
-            "assets/forbes.png",
+            "https://cdn.worldvectorlogo.com/logos/forbes-2.svg",
         link: 
-            "https://forbes.kz/life/hero/kak_shkolnik_iz_almatyi_proshel_stajirovku_v_nasa_i_mit_a_zatem_zapustil_v_ssha_startap/?"
+            "https://1000logos.net/wp-content/uploads/2021/05/Forbes-logo.png"
     },
     {
         id: 2,
