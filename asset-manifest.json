@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/zkabyken.fyi/static/css/main.1005fd8a.chunk.css",
+    "main.js": "/zkabyken.fyi/static/js/main.d033b1c5.chunk.js",
+    "main.js.map": "/zkabyken.fyi/static/js/main.d033b1c5.chunk.js.map",
+    "runtime-main.js": "/zkabyken.fyi/static/js/runtime-main.e66dc89a.js",
+    "runtime-main.js.map": "/zkabyken.fyi/static/js/runtime-main.e66dc89a.js.map",
+    "static/js/2.0ad63f19.chunk.js": "/zkabyken.fyi/static/js/2.0ad63f19.chunk.js",
+    "static/js/2.0ad63f19.chunk.js.map": "/zkabyken.fyi/static/js/2.0ad63f19.chunk.js.map",
+    "index.html": "/zkabyken.fyi/index.html",
+    "static/css/main.1005fd8a.chunk.css.map": "/zkabyken.fyi/static/css/main.1005fd8a.chunk.css.map",
+    "static/js/2.0ad63f19.chunk.js.LICENSE.txt": "/zkabyken.fyi/static/js/2.0ad63f19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e66dc89a.js",
+    "static/js/2.0ad63f19.chunk.js",
+    "static/css/main.1005fd8a.chunk.css",
+    "static/js/main.d033b1c5.chunk.js"
+  ]
+}
